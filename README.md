@@ -1,6 +1,6 @@
 # mcq
 
-A MCQ Flutter Task for NIT .
+A MCQ Simple app to test your knowledge .
 
 ## Getting Started
 
